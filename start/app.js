@@ -31,7 +31,7 @@ const providers = [
 |
 */
 const aceProviders = [
-  '@adonisjs/lucid/providers/MigrationsProvider'
+  'lucid-mongo/providers/MigrationsProvider'
 ]
 
 /*
